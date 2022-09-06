@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<livroDeReceita>
+    <receita>
+        <nomeReceita>Lorem Ipsum</nomeReceita>
+        <listaDeIngredientes>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+        </listaDeIngredientes>
+        <modoDePreparo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+        </modoDePreparo>
+        <valorMedioGasto>R$11,11</valorMedioGasto>
+        <valorVendaRecomendado>R$11,11</valorVendaRecomendado>
+    </receita>
+        <receita>
+        <nomeReceita>Lorem Ipsum</nomeReceita>
+        <listaDeIngredientes>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+        </listaDeIngredientes>
+        <modoDePreparo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+        </modoDePreparo>
+        <valorMedioGasto>R$11,11</valorMedioGasto>
+        <valorVendaRecomendado>R$11,11</valorVendaRecomendado>
+    </receita>
+        <receita>
+        <nomeReceita>Lorem Ipsum</nomeReceita>
+        <listaDeIngredientes>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+        </listaDeIngredientes>
+        <modoDePreparo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+        </modoDePreparo>
+        <valorMedioGasto>R$11,11</valorMedioGasto>
+        <valorVendaRecomendado>R$11,11</valorVendaRecomendado>
+    </receita>
+        <receita>
+        <nomeReceita>Lorem Ipsum</nomeReceita>
+        <listaDeIngredientes>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+        </listaDeIngredientes>
+        <modoDePreparo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+        </modoDePreparo>
+        <valorMedioGasto>R$11,11</valorMedioGasto>
+        <valorVendaRecomendado>R$11,11</valorVendaRecomendado>
+    </receita>
+        <receita>
+        <nomeReceita>Lorem Ipsum</nomeReceita>
+        <listaDeIngredientes>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+            <ingrediente info1="" info2="">Lorem ipsum dolor sit amet</ingrediente>
+        </listaDeIngredientes>
+        <modoDePreparo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+            <passo>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</passo>
+        </modoDePreparo>
+        <valorMedioGasto>R$11,11</valorMedioGasto>
+        <valorVendaRecomendado>R$11,11</valorVendaRecomendado>
+    </receita>
+</livroDeReceita>
